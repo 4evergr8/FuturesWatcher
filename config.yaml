@@ -1,0 +1,5 @@
+futures: SOLUSDT
+proxy: 127.0.0.1
+startup: true
+timeout: 500
+port: 7890
